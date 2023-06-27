@@ -1,4 +1,4 @@
 /// [sesuaikan api key]
 /// [log in dan copy api key di https://api.rajaongkir.com/]
 
-const String apiKey = "0fe19686da22d69a5f16f2c03997c346";
+const String apiKey = "e7c781b983db71793ec815e5c6547130";

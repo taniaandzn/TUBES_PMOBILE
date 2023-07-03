@@ -1,3 +1,5 @@
-# cek_ongkir
+# Tugas Besar P. Mobile
 
-A new Flutter project.
+Aplikasi Cek Ongkir.
+
+Tania Adzani Putri K Ramelan ( 2006134 )
